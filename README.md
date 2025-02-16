@@ -1,4 +1,4 @@
-Update to OVINO API 2.0 
+Update to OpenVINO API 2.0 
 
 Download model
 
